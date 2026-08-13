@@ -1,6 +1,8 @@
 # Financials-RAID-Tracker---Power-Bi
 This project showcases financial/budget tracking, invoicing status, RAID logs, stakeholder register, and deliverable tracking — all rolled into one PM dashboard for senior leadership.
 
+<img width="1272" height="715" alt="image" src="https://github.com/user-attachments/assets/0c4273b5-efcb-47e4-a2e3-5ee0605b764a" />
+
 **** Project Financial & RAID Tracker Dashboard | Power BI ****
 
 An end-to-end Power BI project designed to provide executive-level visibility into project financials, budget performance, invoicing, RAID management (Risks, Assumptions, Issues & Dependencies), stakeholder engagement, and deliverable tracking.

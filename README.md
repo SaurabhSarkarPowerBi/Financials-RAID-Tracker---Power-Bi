@@ -2,6 +2,11 @@
 This project showcases financial/budget tracking, invoicing status, RAID logs, stakeholder register, and deliverable tracking — all rolled into one PM dashboard for senior leadership.
 
 <img width="1272" height="715" alt="image" src="https://github.com/user-attachments/assets/0c4273b5-efcb-47e4-a2e3-5ee0605b764a" />
+<img width="1277" height="713" alt="image" src="https://github.com/user-attachments/assets/d35c0d08-50a6-4f92-8e87-b6805fb250d6" />
+<img width="1292" height="718" alt="image" src="https://github.com/user-attachments/assets/50b11690-639b-4894-b54f-1d15159ac96f" />
+<img width="1282" height="720" alt="image" src="https://github.com/user-attachments/assets/f32f7ec3-ee72-4326-bb09-256d12b0bb81" />
+
+
 
 **** Project Financial & RAID Tracker Dashboard | Power BI ****
 

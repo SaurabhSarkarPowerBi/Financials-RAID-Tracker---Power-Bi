@@ -1,0 +1,6 @@
+ProjectID,ProjectName,ClientName,StartDate,EndDate,Status
+P01,Client A - Network Modernisation,Client A,2025-01-01,2025-12-31,Active
+P02,Client B - Service Desk Transformation,Client B,2025-02-01,2025-11-30,Active
+P03,Client C - Cloud Migration Phase 1,Client C,2025-03-01,2026-02-28,Active
+P04,Client D - Process Automation Rollout,Client D,2024-10-01,2025-06-30,Closed
+P05,Client E - Data Governance Programme,Client E,2025-05-01,2026-04-30,Active

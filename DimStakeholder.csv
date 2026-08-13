@@ -1,0 +1,29 @@
+StakeholderID,ProjectID,Name,Role,Organization,InfluenceLevel,InterestLevel,CommunicationFrequency
+ST001,P01,Stakeholder 1,Business Owner,Client A,Medium,High,Ad-hoc
+ST002,P01,Stakeholder 2,Business Owner,Client A,Medium,High,Bi-weekly
+ST003,P01,Stakeholder 3,Sponsor,Client A,Low,High,Bi-weekly
+ST004,P01,Stakeholder 4,Steering Committee,Client A,Low,Medium,Monthly
+ST005,P02,Stakeholder 5,End User Rep,Client B,Low,Low,Monthly
+ST006,P02,Stakeholder 6,Sponsor,Client B,Low,Medium,Bi-weekly
+ST007,P02,Stakeholder 7,Technical Lead,Client B,Medium,Medium,Weekly
+ST008,P02,Stakeholder 8,Project Manager,Client B,High,Medium,Ad-hoc
+ST009,P02,Stakeholder 9,Technical Lead,Client B,Medium,Low,Bi-weekly
+ST010,P03,Stakeholder 10,Business Owner,Client C,Medium,Medium,Weekly
+ST011,P03,Stakeholder 11,Business Owner,Client C,High,Medium,Monthly
+ST012,P03,Stakeholder 12,Technical Lead,Client C,High,High,Weekly
+ST013,P03,Stakeholder 13,Steering Committee,Client C,Medium,Medium,Monthly
+ST014,P03,Stakeholder 14,Sponsor,Client C,Medium,Medium,Weekly
+ST015,P03,Stakeholder 15,Business Owner,Client C,Medium,Medium,Weekly
+ST016,P03,Stakeholder 16,Business Owner,Client C,High,High,Monthly
+ST017,P04,Stakeholder 17,Project Manager,Client D,Medium,Medium,Monthly
+ST018,P04,Stakeholder 18,Project Manager,Client D,Medium,Medium,Weekly
+ST019,P04,Stakeholder 19,Steering Committee,Client D,Medium,Low,Bi-weekly
+ST020,P04,Stakeholder 20,Steering Committee,Client D,High,High,Ad-hoc
+ST021,P04,Stakeholder 21,Technical Lead,Client D,Low,High,Monthly
+ST022,P05,Stakeholder 22,Sponsor,Client E,Low,High,Bi-weekly
+ST023,P05,Stakeholder 23,Technical Lead,Client E,Medium,Medium,Monthly
+ST024,P05,Stakeholder 24,Business Owner,Client E,Medium,Low,Monthly
+ST025,P05,Stakeholder 25,Technical Lead,Client E,Low,High,Monthly
+ST026,P05,Stakeholder 26,Technical Lead,Client E,Low,Low,Ad-hoc
+ST027,P05,Stakeholder 27,Sponsor,Client E,High,Low,Bi-weekly
+ST028,P05,Stakeholder 28,Sponsor,Client E,High,Low,Ad-hoc
